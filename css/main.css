@@ -43,10 +43,13 @@ h1
   margin-right: 0%; */
 }
 
-/* .thought1
+.thought1
 {
-  background-color: #59C3C3;
-} */
+  /* background-color: #59C3C3; */
+  /* margin: 1% 1% 1% 1%;
+  margin- */
+  border: 1px solid red;
+}
 .thought1:hover
 {
   background-color: #4062BB;
