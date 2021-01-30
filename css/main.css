@@ -19,10 +19,16 @@ html
   background-color: #EBEBEB;
 }
 
+h1
+{
+  font-weight: bold;
+  text-shadow: .5px .5px .5px white;
 
+}
  .thought
 {
   background-color: #F45B69;
+  font-weight: bold;
   /* padding-left: 0%;
   margin-left: 0%;
   padding-right: 0%;
