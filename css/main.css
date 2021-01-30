@@ -44,6 +44,15 @@ h1
 
 }
 
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
 
 .thought1
 {
@@ -57,6 +66,9 @@ h1
 
 .thought2
 {
+  animation: fadeOut 2s ease;
+   /* animation-fill-mode: forwards; */
+   animation-delay:5s;
 }
 
 .thought3
