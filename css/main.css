@@ -7,6 +7,10 @@ body
 {
   /* background-color: #EBEBEB; */
   background-color: #59C3C3;
+  padding-left: 5%;
+  margin-left: 10%;
+  padding-right: 5%;
+  margin-right: 10%;
 }
 
 html
@@ -18,22 +22,29 @@ html
  .thought
 {
   background-color: #F45B69;
+  /* padding-left: 0%;
+  margin-left: 0%;
+  padding-right: 0%;
+  margin-right: 0%; */
 }
-/*
-.thought1
+
+/* .thought1
 {
   background-color: #59C3C3;
-
-}
+} */
 .thought1:hover
 {
-  background-color: #59C3C3;
+  background-color: #4062BB;
 }
+
 
 .thought2
 {
-  background-color: #59C3C3;
+
+  /* background-color: #59C3C3; */
 }
+
+/*
 
 .thought3
 {
