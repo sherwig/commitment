@@ -48,7 +48,8 @@ h1
   /* background-color: #59C3C3; */
   /* margin: 1% 1% 1% 1%;
   margin- */
-  border: 1px solid red;
+  border: 3px;
+  border-color: #4062BB;
 }
 .thought1:hover
 {
