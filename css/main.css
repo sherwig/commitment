@@ -11,6 +11,11 @@ html
 .thought1
 {
   background-color: red;
+
+}
+.thought1:hover
+{
+  background-color: yellow;
 }
 
 .thought2
