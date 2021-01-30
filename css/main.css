@@ -48,8 +48,8 @@ h1
   /* background-color: #59C3C3; */
   /* margin: 1% 1% 1% 1%;
   margin- */
-  border: 3px;
-  border-color: #4062BB;
+  border-width: medium;
+  border-color: black;
 }
 .thought1:hover
 {
@@ -59,7 +59,8 @@ h1
 
 .thought2
 {
-
+  border-width: medium;
+  border-color: black;
   /* background-color: #59C3C3; */
 }
 
