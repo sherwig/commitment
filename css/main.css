@@ -5,7 +5,8 @@
 
 body
 {
-  background-color: #EBEBEB;
+  /* background-color: #EBEBEB; */
+  background-color: #59C3C3;
 }
 
 html
@@ -14,11 +15,11 @@ html
 }
 
 
-.thought
+ .thought
 {
   background-color: #F45B69;
-
 }
+/*
 .thought1
 {
   background-color: #59C3C3;
@@ -87,4 +88,4 @@ html
 .thought13
 {
   background-color: #59C3C3;
-}
+} */
