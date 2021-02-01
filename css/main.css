@@ -95,8 +95,12 @@ h1
 
 #coffee
 {
-  width: 10%;
-  height: 10%;
+  width: 20%;
+  height: 20%;
+  position: fixed;
+  left:80%;
+  bottom: 40%;
+  /* top:2px; */
 
 }
 .thought5
