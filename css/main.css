@@ -97,9 +97,10 @@ h1
 {
   width: 20%;
   height: 20%;
-  position: fixed;
-  left:80%;
-  bottom: 40%;
+  position: absolute;
+  left:60%;
+  bottom: 5%;
+  top: 120%;
   /* top:2px; */
 
 }
