@@ -3,6 +3,7 @@
 /* 59C3C3 */
 /* F45B69 */
 
+/* for animation help: https://css-tricks.com/lets-look-50-interesting-css-properties-values/ */
 body
 {
   /* background-color: #EBEBEB; */
@@ -36,6 +37,7 @@ h1
   font-weight: bold;
   text-align: center;
   font-size: 4em;
+  animation: fadeOut 4s ease;
 
 }
 .thought1,.thought2,.thought3, .thought4,.thought5,.thought6,.thought7,.thought8,.thought9,.thought10,.thought11,.thought12,.thought12
@@ -68,19 +70,22 @@ h1
 {
   animation: fadeOut 2s ease;
    /* animation-fill-mode: forwards; */
-   animation-delay:5s;
+   animation-delay:10s;
 }
 
 .thought3
 {
+
 }
 
 .thought4
 {
+
 }
 
 .thought5
 {
+  
 }
 
 .thought6
