@@ -121,6 +121,7 @@ h1
 .thought8
 {
   /* background: color url("../img/beast-mode.png"); */
+  color:white;
   background-image: url("../img/beast-mode.png");
   background-size: cover;
 }
