@@ -86,8 +86,6 @@ h1
 {
   /* animation: animation 15s ease infinite; */
   animation: animation 15s ease;
-
-
 }
 
 .thought4
@@ -95,6 +93,12 @@ h1
 
 }
 
+#coffee
+{
+  width: 10%;
+  height: 10%;
+
+}
 .thought5
 {
 
