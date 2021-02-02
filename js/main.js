@@ -3,7 +3,8 @@
 
 function javaBoi()
 {
-  var divvy=document.getElementByClassName(thought11);
+  var divvy=document.getElementsByClassName(thought11);
+  console.log(divvy);
 
 
 }
